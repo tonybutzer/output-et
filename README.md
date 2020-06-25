@@ -9,6 +9,12 @@ Repo for Notebooks and Workflows for EvapoTranspiration ET
 
 ## Roles
 
+1. Greg is involved with ET in these areas
+    - Helps with the inputs - land cover and phenology - not yet incorporated
+    - Wants to explore the outputs
+
+2. Tony is a Cloud Engineer and part-time python hacker - and a junior scientist in training
+
 ## Objectives
 
 ### Greg
