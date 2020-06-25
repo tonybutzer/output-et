@@ -32,7 +32,7 @@ Repo for Notebooks and Workflows for EvapoTranspiration ET
 ### June 6, 2020
 
 1. Test miniPangeo Access
-2. demonstrate git for output-repo
+2. demonstrate git for output-et github repo
     - from terminal
     - cd output-et
         - make
