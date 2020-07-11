@@ -4,6 +4,10 @@ Hello Greg
 
 Repo for Notebooks and Workflows for EvapoTranspiration ET
 
+# WIP
+
+- study maca thredds server and practice using bash scripts to download data
+
 # Charter
 
 ## Vision
