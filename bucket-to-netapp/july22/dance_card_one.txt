@@ -1,0 +1,12 @@
+tile40N-90E_chip38N-90E
+tile40N-100E_chip38N-92E
+tile40N-100E_chip38N-94E
+tile40N-100E_chip36N-94E
+tile40N-100E_chip34N-94E
+tile40N-100E_chip32N-94E
+tile40N-90E_chip32N-82E
+tile40N-90E_chip32N-84E
+tile40N-90E_chip32N-86E
+tile40N-90E_chip34N-82E
+tile40N-90E_chip34N-84E
+tile40N-90E_chip34N-86E
